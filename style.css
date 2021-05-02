@@ -1,0 +1,97 @@
+h1{
+    background-color: blanchedalmond;
+    color: blue;
+    width: inherit;
+    height: 50px;
+    text-align: center;
+    position: center;
+    padding-top: 12px;
+    margin-top: 0mm;
+    margin-bottom: 0mm;
+    border-radius: 14px;
+    border-color: #000000;
+    border-style: solid;
+    font-size: 32px;
+
+}
+.header{
+    position: center;
+    text-align: center;
+    font-size: 28px;
+    color: white;
+    background-color:blue;
+    margin: 2px 0px 0px 0px;
+    padding: 15px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 14px;
+    
+
+}
+input,textarea{
+    width: 80%;
+    align-items: center;
+    padding: 14px;
+    font-size: 20px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 14px;
+    background-color: rgb(225, 246, 248);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: 20px auto;
+    
+
+    
+}
+input{
+    align-items: center;
+    height: 30px;
+    padding: 15px;
+    font-size: 20px;
+    align-content: center;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 14px;
+    background-color: rgb(225, 246, 248);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px auto;
+}
+form{
+    margin-top: 2px;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    margin: 11px auto;
+    padding: 7px 10px;
+    border-radius: 8px;
+    width: 113px;
+    height: 40px;
+    background-color: rgb(110, 110, 248);
+    color: white;
+    font-size: 20px;
+    border: 2px white solid;
+    cursor: pointer;
+}
+img{
+    width: 100%;
+    
+    position: absolute;
+    z-index: -1;
+    opacity: 0.9;
+}
+.submit{
+    color: rgb(2, 134, 2);
+    
+    font-size: 28px;
+    font-weight: 600;
+    position: center;
+    text-align: center;
+    
+}
